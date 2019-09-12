@@ -1,7 +1,7 @@
 Hello World !
 une modification
 
-2ème modification
+2ème CONFLIT
 test de push avec une modif sur le server non récupéré
 
 test diff
